@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CreateActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:background="#D81B60"
+        android:layout_marginEnd="12dp"
+        android:gravity="center"
+        android:elevation="12dp"
+        android:outlineSpotShadowColor="@color/colorPrimary"
+        android:orientation="horizontal"
+        android:layout_marginStart="12dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonsave"
+            android:text="Save"
+            ></Button>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/buttonback"
+            android:text="Quit without Save"
+            ></Button>
+    </LinearLayout>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="12dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginTop="23dp"
+        android:gravity="top|left"
+        android:focusable="true"
+        android:id="@+id/txtboard"
+        android:background="@null"
+        android:focusableInTouchMode="true"
+        android:focusedByDefault="true"
+        android:hint="Type here"
+        ></EditText>
+</LinearLayout>

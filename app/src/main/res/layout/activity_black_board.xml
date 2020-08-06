@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".BlackBoardActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="filename title"
+        android:layout_gravity="center"
+        android:padding="12dp"
+        android:id="@+id/filetitle"
+        ></TextView>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:focusedByDefault="true"
+        android:focusable="true"
+        android:background="#E0F9FF"
+        android:enabled="false"
+        android:padding="9dp"
+        android:layout_marginTop="27dp"
+        android:gravity="top|left"
+        android:defaultFocusHighlightEnabled="true"
+        android:focusableInTouchMode="true"
+        android:id="@+id/blackboard"
+        ></EditText>
+</LinearLayout>

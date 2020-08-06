@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item
+            android:id="@+id/edit"
+            android:title="Edit"
+            ></item>
+        <item
+            android:id="@+id/reopen"
+            android:title="Reset Changes"
+            ></item>
+        <item
+            android:id="@+id/save"
+            android:title="Save"
+            ></item>
+        <item
+            android:id="@+id/delete"
+            android:title="Delete"
+            ></item>
+        <item
+            android:id="@+id/exit"
+            android:title="Exit"
+            ></item>
+
+    </group>
+
+</menu>
