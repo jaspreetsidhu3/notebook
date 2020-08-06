@@ -58,7 +58,7 @@ Android application where we can store our notes inside internal storage. And gi
 ## Version
 
 v1.0
-## Contribution
+## Want to contribution ?
 * We welcome to contribute everyone to contribute on this project
 ### To contribute
 * Fork this project
