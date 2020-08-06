@@ -52,7 +52,7 @@ Android application where we can store our notes inside internal storage. And gi
 
 ## Language implementation
 * Java
-## Backend
+## Storage type
 * Internal Storage
 
 ## Version
