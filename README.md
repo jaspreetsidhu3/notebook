@@ -1,6 +1,6 @@
 # Notebook
 
-Android application where we can store our notes inside internal storage. And give flexibility to add, update, delete, reset our notes. 
+Android application where we can store our notes inside internal storage. And give flexibility to add, update, delete, reset your notes. 
 
 ## Getting Started
 
