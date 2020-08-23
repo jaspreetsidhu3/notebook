@@ -19,10 +19,10 @@ Android application where we can store our notes inside internal storage. And gi
 
 * Splash screen
 <img src="Screenshot/a (1).jpg" width=200 height=400 />
-</br>
+
 * Home Page
 <img src="Screenshot/a (2).jpg" width=200 height=400 />
-</br>
+
 * Create mode
 </br>
 <span>
