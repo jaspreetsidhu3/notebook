@@ -10,9 +10,9 @@ Android application where we can store our notes inside internal storage. And gi
 4.Enjoy and start making notes.
 
 ### Prerequisites
-1.Android Studio or VS Code editor </br>
-2.Android Phone </br>
-3.Active internet connection
+* Android Studio or VS Code editor </br>
+* Android Phone </br>
+* Active internet connection
 
 
 ## Screenshots
@@ -61,10 +61,10 @@ v1.0
 ## Want to contribution ?
 * We welcome everyone to contribute on this project
 ### To contribute
-* Fork this project
-* Clone onto your local computer
-* debug code or add features or anything you want to add
-* Send the pull request
+1. Fork this project
+2. Clone onto your local computer
+3. debug code or add features or anything you want to add
+4. Send the pull request
 
 ## Authors
 
