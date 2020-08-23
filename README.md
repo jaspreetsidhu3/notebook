@@ -31,14 +31,14 @@ Android application where we can store our notes inside internal storage. And gi
 </span>
 
 * Open mode
-</br>
+
 <span>
 <img src="Screenshot/a (7).jpg" width=200 height=400 />
 <img src="Screenshot/a (8).jpg" width=200 height=400 />
 </span>
 
 * Editor mode
-</br>
+
 <span>
 <img src="Screenshot/a (9).jpg" width=200 height=400 />
 
